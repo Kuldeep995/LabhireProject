@@ -10,7 +10,7 @@ Download the War file
 Deploy it in the Tomcat Apache
 The Node.js file “Twilio_App.js” acts as a link between the Twilio, our chatbot and the WhatsApp accounts of the users.
 
-Report  link: https://docs.google.com/document/d/1Bd3ro9MCz1HV3m7Nq97o5hmyaHWRZqfSADrljx2n7uk/edit?usp=sharing
+Report  link: https://docs.google.com/document/d/1dYzJrS17lTuZuEUqxrJcM692NRbwt78ywtoERPeSZDk/edit
 
 SRS document for Project: https://docs.google.com/document/d/12K9zy1AMVBYcMB8s0fT-UtoUfUGKadx487f8zrysHvI/edit?usp=sharing
 
